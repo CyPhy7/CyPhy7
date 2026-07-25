@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @CyPhy7
-- I’m interested in rf
-- Fairly new to python.
 - New to GitHub experience, please be patient with me.
 
 <!---
